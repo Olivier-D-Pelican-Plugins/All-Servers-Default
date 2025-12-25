@@ -1,0 +1,12 @@
+{
+    "id": "allserverdefault",
+    "name": "All Servers Default Tab",
+    "author": "Olivier D.",
+    "version": "1.0.1",
+    "description": "Change default tab to 'All Servers' on server list.",
+    "category": "plugin",
+    "url": "https://github.com/olivierdti/pelican-plugins/tree/main/allserverdefault",
+    "namespace": "AllServerDefault",
+    "class": "AllServerDefaultPlugin",
+    "update_url": "https://raw.githubusercontent.com/olivierdti/pelican-plugins/main/updates/allserverdefault/update.json"
+}
